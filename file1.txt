@@ -1,1 +1,2 @@
 First line by Developer A
+This is line added by developer B
